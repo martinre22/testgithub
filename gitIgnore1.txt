@@ -1,0 +1,6 @@
+soy 
+git 
+version 
+extra
+
+--probando comando --amend
