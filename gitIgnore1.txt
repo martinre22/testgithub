@@ -1,6 +1,10 @@
+HEAD
 soy 
 git 
 version 
 extra
 
 --probando comando --amend
+
+soy git version extra
+32f8c434a2b3a7acf8e88f8d867386a6ac3cf18c
